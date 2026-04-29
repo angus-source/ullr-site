@@ -151,9 +151,9 @@ export default function App() {
         <div style={{ maxWidth: 1000, margin: "0 auto" }}>
           <Reveal><SectionLabel text="The Threat" /></Reveal>
           <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))", gap: 24 }}>
-            <StatBlock value="81" suffix="%" label="Of battlefield injuries are now shrapnel wounds" delay={0} />
-            <StatBlock value="45358" suffix="" label="Civilian casulaties were caused by explosive weapons in 2025" delay={0.12} />
-            <StatBlock value="383" suffix="" label="Aid workers killed in 2024 — a record" delay={0.24} />
+            <StatBlock value="81" suffix="%" label="Of battlefield injuries in Ukraine are now shrapnel wounds" delay={0} />
+            <StatBlock value="45362" suffix="" label="Civilian casulaties were caused by explosive weapons in 2025" delay={0.12} />
+            <StatBlock value="1010" suffix="" label="Humanitarians killed from 2023 to 2026 - triple number from the previous three years" delay={0.24} />
           </div>
           <Reveal delay={0.3}>
             <p style={{ textAlign: "center", fontSize: 11, color: G.muted, marginTop: 32, letterSpacing: "0.04em", lineHeight: 1.6 }}>
