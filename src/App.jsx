@@ -183,7 +183,7 @@ export default function App() {
       {/* ══ OUR ANSWER / SHRAPNO ══ */}
       <section style={{ padding: "100px 24px", background: G.bg }}>
         <div style={{ maxWidth: 900, margin: "0 auto" }}>
-          <Reveal><SectionLabel text="Our Answer" /></Reveal>
+          <Reveal><SectionLabel text="Our First Answer" /></Reveal>
           <Reveal delay={0.1}>
             <h2 style={{ fontFamily: "'Bebas Neue', sans-serif", fontSize: "clamp(3.5rem, 10vw, 6rem)", letterSpacing: "0.12em", textAlign: "center", color: G.green, marginBottom: 8, lineHeight: 1 }}>
               SHRAPNO
