@@ -174,7 +174,7 @@ export default function App() {
           </Reveal>
           <Reveal delay={0.2}>
             <p style={{ textAlign: "center", fontSize: 16, lineHeight: 1.8, color: G.muted, maxWidth: 620, margin: "0 auto" }}>
-              Fragmentation isn't new. Cheap, precise and prolific delivery of it is. A drone now does what artillery used to and more. Existing protection doesn't move with the people who need it.
+              Fragmentation isn't new. Cheap, precise and prolific delivery of it is. A drone now does what artillery used to and more. Existing protection doesn't move with the people who need it most.
             </p>
           </Reveal>
         </div>
